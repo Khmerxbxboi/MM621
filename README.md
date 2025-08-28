@@ -8,7 +8,10 @@ This site was built using [GitHub Pages](https://www.jayaproduction.com).
 
 ## About Me  
 
-![Bulli Sot](/mnt/data/9b9229b5-c292-4b6c-8a86-bc740dcb1d2b.png)  
+<p align="center">
+  <img src="https://img1.wsimg.com/isteam/ip/fde17286-efac-49a5-9c0a-7345edcd472c/A.jpeg/:/cr=t:12.41%25,l:0%25,w:100%25,h:75.19%25/rs=w:600,h:451.12781954887214,cg=true"
+       alt="Bulli Sot at a photo exhibit" />
+</p> 
 
 I am a **graduate student** at *California State University, East Bay* pursuing an **M.A. in Interaction Design & Interactive Art (2024–2027)**.  
 I am also the **founder of Sodaro**, an AI-driven financial and design platform that blends technology, ethics, and accessibility to empower underserved communities.  
