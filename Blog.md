@@ -25,3 +25,11 @@ Second day og School, I notice we got to read but good part is youtube I see the
 
 Aug 26 2025
 We learned about interaction by examining something as simple as a sink. Why is the sink built this way? How can it be improved so that anyone can use it? The key lesson is to remember that you are designing for all people, not just yourself. I realized the importance of building for **everyone universally**.
+
+Sept 2 2025
+Exercise and getting back into p5.js !
+
+
+Sept 4 2025
+Working on the text from every part of p5.js !!!
+At the moment, working on the spaceship exercise ... website is on point and p5.js
