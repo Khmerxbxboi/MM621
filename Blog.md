@@ -33,3 +33,8 @@ Exercise and getting back into p5.js !
 Sept 4 2025
 Working on the text from every part of p5.js !!!
 At the moment, working on the spaceship exercise ... website is on point and p5.js
+
+Sept 11 2025
+This is my first exercise lab #1 for Tyler Class
+https://khmerxbxboi.github.io/MM621_In-Class-Exercise-Character-Scene-Randomizer/
+
