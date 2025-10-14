@@ -38,3 +38,22 @@ Sept 11 2025
 This is my first exercise lab #1 for Tyler Class
 https://khmerxbxboi.github.io/MM621_In-Class-Exercise-Character-Scene-Randomizer/
 
+Sept 16 2025
+
+
+Sept 18 2025
+
+Sept 23 2025
+
+Sept 25 2025
+
+Sept 30 2025
+
+Oct  02 2025
+
+Oct  07 2025
+
+Oct  09 2025
+
+Oct  14 2025
+
