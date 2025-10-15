@@ -72,5 +72,7 @@ Oct  14 2025
 D3.js = amazing what is this ?
 API learning
 we working on understanding our new Project #2
+Learning about how to json that stuff understand 100k grand ???
+
 
 
