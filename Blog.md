@@ -26,9 +26,10 @@ Second day og School, I notice we got to read but good part is youtube I see the
 Aug 26 2025
 We learned about interaction by examining something as simple as a sink. Why is the sink built this way? How can it be improved so that anyone can use it? The key lesson is to remember that you are designing for all people, not just yourself. I realized the importance of building for **everyone universally**.
 
+- - - - -
+
 Sept 2 2025
 Exercise and getting back into p5.js !
-
 
 Sept 4 2025
 Working on the text from every part of p5.js !!!
@@ -40,7 +41,6 @@ https://khmerxbxboi.github.io/MM621_In-Class-Exercise-Character-Scene-Randomizer
 
 Sept 16 2025
 Refreshing more of p5.js and figure how to understand more ...
-
 
 Sept 18 2025
 We have to learn as much for our medterm coming up! read as much also !
@@ -54,6 +54,8 @@ Classmate presentation, very inspiration to all each individual classmate.
 Sept 30 2025
 Today was my presentation for project #1 ! score 14/15 with p5.js !!!
 
+- - - - -
+
 Oct  02 2025
 work on more p5.js and understand more without the help of AI.
 
@@ -63,11 +65,12 @@ Today is my birthday and I did not show up today for class.
 Oct  09 2025
 We learn what we learn more understand of p5.js shoutcut !
 
-
 let bubbles = []; 
 https://editor.p5js.org/Khmerxbxboi/sketches/cnCNS-PH0
 
-
-
 Oct  14 2025
+D3.js = amazing what is this ?
+API learning
+we working on understanding our new Project #2
+
 
