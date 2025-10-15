@@ -44,10 +44,12 @@ Sept 16 2025
 Sept 18 2025
 
 Sept 23 2025
+Midterm today score 8/10 ! yes life is good sometime study hard you know.=
 
 Sept 25 2025
 
 Sept 30 2025
+Today was my presentation for project #1 ! score 14/15 with p5.js !!!
 
 Oct  02 2025
 
