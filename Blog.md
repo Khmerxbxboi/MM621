@@ -74,5 +74,8 @@ API learning
 we working on understanding our new Project #2
 Learning about how to json that stuff understand 100k grand ???
 
+Oct 16, 2025
+Today we learn about Weather API !
+
 
 
