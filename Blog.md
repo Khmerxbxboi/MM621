@@ -17,6 +17,9 @@ I am a **graduate student** at *California State University, East Bay* pursuing 
 I am also the **founder of Sodaro**, an AI-driven financial and design platform that blends technology, ethics, and accessibility to empower underserved communities.  
 
 
+## Reading Discussions
+
+## BLOG
 Aug 19 2025
 Back to School ... new room but same good positive energy! Tyler showing off a good lesson about p5 and what we will be covering this semester. I remeber Tyler also told me its going to be a rerun with new stuff. I am glad to be here and refresh my brain of my skills in the Grad Program !.
 
@@ -76,6 +79,10 @@ Learning about how to json that stuff understand 100k grand ???
 
 Oct 16, 2025
 Today we learn about Weather API !
+
+Oct 21, 2025
+I have to work on my stuff and turn it by 11:59pm after my personal meeting. 
+Today classmate  are shawing powerslide of the reading. 
 
 
 
