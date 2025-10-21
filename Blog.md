@@ -16,6 +16,10 @@ This site was built using [GitHub Pages](https://www.jayaproduction.com).
 I am a **graduate student** at *California State University, East Bay* pursuing an **M.A. in Interaction Design & Interactive Art (2024–2027)**.  
 I am also the **founder of Sodaro**, an AI-driven financial and design platform that blends technology, ethics, and accessibility to empower underserved communities.  
 
+## PROJECTS
+Project #1
+<BR>
+https://khmerxbxboi.github.io/MM621---Lab-3-Randomizer/
 
 ## Reading Discussions
 
@@ -40,6 +44,7 @@ At the moment, working on the spaceship exercise ... website is on point and p5.
 
 Sept 11 2025
 This is my first exercise lab #1 for Tyler Class
+<BR>
 https://khmerxbxboi.github.io/MM621_In-Class-Exercise-Character-Scene-Randomizer/
 
 Sept 16 2025
