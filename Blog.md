@@ -21,11 +21,21 @@ Project #1 (Due: Tue Sep 30, 2025 11:59pm)
 <BR>
 https://khmerxbxboi.github.io/MM621---Lab-3-Randomizer/
 
-## Reading Discussions
+## Reading Discussions 
 
-Reading #1
+
+Reading Chapter #1
 <BR>
 Reading Chapter 1 of The Design of Everyday Things made me think about how design connects deeply with culture. Norman’s idea of affordances (p. 10) stood out, how an object’s form suggests its use. In Cambodia, I see this in traditional designs like cooking stoves or water jars. Their shapes clearly show how to use them without needing written directions. It’s reality of life there similar to hear but more ancient I beleive, built from generations of shared understanding. Norman also highlights visibility and feedback (p. 15) as critical for good design. I realized that when using imported technologies like ticket kiosks or washing machines, the lack of clear feedback often causes confusion and also inspiration by using our mind to think as "critical thinking". This made me appreciate how local design often feels more “human” because it’s grounded in lived experience from both cutlure of Cambodia to Cambodia. Norman’s ideas helped me see that good design isn’t just about modernity of life... it’s about understanding people, context, and culture.
+
+Reading Chapter #2
+<BR>
+
+Journal Response – The Psychology of Everyday Actions in the Streets of Oakland
+Reading Chapter 2 of The Design of Everyday Things made me think about how much design depends on understanding how people really act, not how designers think we act. Norman’s seven stages of action (p. 36) ... from setting goals to evaluating result, explain why so many products fail in real life. Out here in East Oakland, you see that every day. People don’t read manuals; they experiment. You learn by doing, messing up, fixing it, and trying again. That’s the real psychology of everyday action — survival through trial and error.
+Norman also talks about constraints (p. 41) = physical, cultural, and logical limits that help guide our behavior. In the streets, constraints are everywhere. A locked gate, a one-way street, or even social boundaries and crime rate high in the sky of DEEP EAST. they all shape how people move and adapt. I started noticing how community design — from corner stores to bus stops — often ignores how people actually use space. When official design fails, people redesign the environment themselves. A bench becomes a hangout spot; a milk crate becomes a seat. That’s human-centered design in its rawest form.
+One line that stuck with me was Norman’s reminder that errors are not always our fault (p. 50). Sometimes the system is just built wrong. That hit me because a lot of frustration in daily life, especially in working class neighborhoods, comes from systems designed without us in mind. Whether it’s confusing digital kiosks, broken infrastructure, or public services that assume access we don’t have, the design problem isn’t the people — it’s the design.
+Norman’s ideas made me respect how people in Oakland constantly redesign their surroundings to make life work. It’s not always pretty, but it’s smart, adaptable, and deeply human — exactly what Norman says good design should be.****
 
 ## BLOG
 Aug 19 2025
