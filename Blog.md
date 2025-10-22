@@ -30,7 +30,6 @@ Reading Chapter 1 of The Design of Everyday Things made me think about how desig
 
 Reading Chapter #2
 <BR>
-
 Journal Response – The Psychology of Everyday Actions in the Streets of Oakland
 Reading Chapter 2 of The Design of Everyday Things made me think about how much design depends on understanding how people really act, not how designers think we act. Norman’s seven stages of action (p. 36) ... from setting goals to evaluating result, explain why so many products fail in real life. Out here in East Oakland, you see that every day. People don’t read manuals; they experiment. You learn by doing, messing up, fixing it, and trying again. That’s the real psychology of everyday action — survival through trial and error.
 Norman also talks about constraints (p. 41) = physical, cultural, and logical limits that help guide our behavior. In the streets, constraints are everywhere. A locked gate, a one-way street, or even social boundaries and crime rate high in the sky of DEEP EAST. they all shape how people move and adapt. I started noticing how community design — from corner stores to bus stops — often ignores how people actually use space. When official design fails, people redesign the environment themselves. A bench becomes a hangout spot; a milk crate becomes a seat. That’s human-centered design in its rawest form.
