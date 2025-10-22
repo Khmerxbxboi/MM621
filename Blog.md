@@ -17,7 +17,7 @@ I am a **graduate student** at *California State University, East Bay* pursuing 
 I am also the **founder of Sodaro**, an AI-driven financial and design platform that blends technology, ethics, and accessibility to empower underserved communities.  
 
 ## PROJECTS
-Project #1
+Project #1 (Due: Tue Sep 30, 2025 11:59pm)
 <BR>
 https://khmerxbxboi.github.io/MM621---Lab-3-Randomizer/
 
