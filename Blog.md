@@ -24,6 +24,7 @@ https://khmerxbxboi.github.io/MM621---Lab-3-Randomizer/
 ## Reading Discussions
 
 Reading #1
+<BR>
 Reading Chapter 1 of The Design of Everyday Things made me think about how design connects deeply with culture. Norman’s idea of affordances (p. 10) stood out, how an object’s form suggests its use. In Cambodia, I see this in traditional designs like cooking stoves or water jars. Their shapes clearly show how to use them without needing written directions. It’s reality of life there similar to hear but more ancient I beleive, built from generations of shared understanding. Norman also highlights visibility and feedback (p. 15) as critical for good design. I realized that when using imported technologies like ticket kiosks or washing machines, the lack of clear feedback often causes confusion and also inspiration by using our mind to think as "critical thinking". This made me appreciate how local design often feels more “human” because it’s grounded in lived experience from both cutlure of Cambodia to Cambodia. Norman’s ideas helped me see that good design isn’t just about modernity of life... it’s about understanding people, context, and culture.
 
 ## BLOG
