@@ -37,9 +37,6 @@ Norman’s ideas made me respect how people in Oakland constantly redesign their
 
 Reading Chapter #3
 <BR>
-Reading Discussion 3: Chapter 4 (pp. 125–141) – The Design of Everyday Things
-
-By Bulli Sot
 
 In Chapter 4, Don Norman talks about how people figure out what actions are possible when they use something new ... through constraints, discoverability, and feedback. He explains how good design gives clues about what can or can’t be done, without needing a manual.
 I connected deeply to Norman’s idea of constraints (physical, cultural, semantic, and logical). In East Oakland, design has always felt real and physical which we stand to the top of the level of life from how we fix bikes or rewire speakers using what we got, to how street art is shaped by the walls and textures around us. Those are real physical constraints, just like Norman describes with batteries or plugs. We learn to create within limits, which is also part of Cambodian (Angkor-style) design ??? using what’s around you to build something timeless and spiritual.
