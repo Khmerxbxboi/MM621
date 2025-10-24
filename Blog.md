@@ -109,5 +109,8 @@ Oct 21, 2025
 I have to work on my stuff and turn it by 11:59pm after my personal meeting. 
 Today classmate  are shawing powerslide of the reading. 
 
+Oct 23, 2025
+Pick a data with partner Kim "Happiness", talk more about the class-work + extra credit.
+
 
 
