@@ -114,5 +114,94 @@ Oct 23 2025
 Pick a data with partner Kim "Happiness", talk more about the class-work + extra credit.
 https://editor.p5js.org/Khmerxbxboi/sketches/6-DfTPERX
 
+Oct 28 2025
+Your Answers:
+Results for question 1.
+1
+0 / 2 points
+Which of the following is NOT one of the 3 main components to set up a For Loop?
+Incorrect answer:
+
+Create an Exit Condition / Boolean Expression
+Correct Answer:
+Create a Constructor()
+
+Create a Constructor()
+, Not Selected
+
+Incrementation Operator
+, Not Selected
+
+Establish a Variable
+, Not Selected
+Results for question 2.
+2
+0 / 2 points
+Which element is the ‘dog’, in the following array?
+
+
+words = ["cat", "rat", "snake", "dog", "turtle", "bird"];
+
+Index 3
+, Not Selected
+
+Index 0
+, Not Selected
+
+Index 5
+, Not Selected
+Incorrect answer:
+
+Index 4
+Correct Answer:
+Index 3
+Results for question 3.
+3
+2 / 2 points
+Which strategy would be effective to counteract personal learned helplessness? 
+
+Giving up at the first error message. 
+, Not Selected
+
+Blaming oneself after a initially failing a task.  
+, Not Selected
+Correct answer:
+
+Challenge negative thought with positive thinking, When something doesn’t work, it can be considered an interesting challenge, or perhaps just a positive learning experience.
+Results for question 4.
+4
+0 / 2 points
+What are the "four kind of constraints" Don Norman references in the first half of Chapter 4?
+
+Physical, Cultural, Semantic, and Logical
+, Not Selected
+Incorrect answer:
+
+Mapping. Signifiers, Feedback, and Affordances 
+Correct Answer:
+Physical, Cultural, Semantic, and Logical
+
+Natural. Psychological, Theoretical, and Philosophical 
+, Not Selected
+
+Ethical, Practical, Emotional, and Historical
+, Not Selected
+Results for question 5.
+5
+0 / 2 points
+Considering Emotional Design by Don Norman, he suggests a useful approximate model of human cognition and emotion is to consider three levels of processing: visceral, behavioral, and reflective. 
+
+Which definition below describes "the visceral level" the best. 
+
+This level is conscious cognitive, deep, and slow. It often occurs after the events have happened. As a consequence, this is where deep understanding develops, where reasoning and conscious decision making take place. 
+, Not Selected
+Incorrect answer:
+
+This level is the home of learned skills, triggered by situations that match the appropriate patterns. Even though we are usually aware of our actions, we are often unaware of the details. All we have to do is think of the goal and the this level handles all the details subconosciously: the conscious mind has little or no awareness beyond creating the desire to act.
+Correct Answer:
+The most basic level of processing. Sometimes referred to as “the lizard brain.” This level system allows us to make quick judgments subconsciously, without conscious awareness or control. about the environment: good or bad, safe or dangerous.
+
+The most basic level of processing. Sometimes referred to as “the lizard brain.” This level system allows us to make quick judgments subconsciously, without conscious awareness or control. about the environment: good or bad, safe or dangerous.
+
 
 
