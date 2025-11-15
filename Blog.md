@@ -60,6 +60,20 @@ This idea connects to the Cambodian bamboo house example.
  And its logical constraint is the single ladder and one entrance, which makes the correct way to enter obvious.
  Just like Norman’s ideas, the house shows how design and culture can shape people’s actions naturally.
 
+Reading #5
+<BR>
+ading Discussion 5 — The Design of Everyday Things (Ch.5: Human Error)
+
+By Bulli Sot
+
+In Chapter 5 of The Design of Everyday Things, Don Norman reframes “human error” as a design problem rather than a user flaw. He explains how most mistakes stem from poor design feedback, unclear constraints, or mismatched conceptual models. What stood out to me was his idea that “the designer must assume all possible errors will happen—and design for them.” This mindset changed how I think about both technology and cultural design.
+
+As someone who grew up surrounded by the architectural wonders of Angkor Wat, I see parallels between ancient Cambodian design and Norman’s principles. The temples weren’t just built for beauty—they were designed for experience, navigation, and storytelling. Every path, doorway, and carving guides the user (the pilgrim or traveler) intuitively toward the central sanctuary. The builders designed for the human journey, reducing confusion through visual and spatial cues—the same goal Norman calls “error-tolerant design.”
+
+In modern UX and interaction design, we’re doing the same thing—creating pathways for users to succeed even when they make mistakes. Whether in apps, websites, or startup systems like my project Sodaro, good design should make complexity feel natural and forgiving.
+
+Design, like Angkor Wat, is a reflection of life itself: patience, iteration, and harmony between structure and spirit. When we understand that every error is an invitation to improve, we begin to design with empathy and purpose.
+
 
 ## BLOG
 Aug 19 2025
