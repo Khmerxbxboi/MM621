@@ -60,6 +60,9 @@ This idea connects to the Cambodian bamboo house example.
  And its logical constraint is the single ladder and one entrance, which makes the correct way to enter obvious.
  Just like Norman’s ideas, the house shows how design and culture can shape people’s actions naturally.
 
+ This is our Link and Presentation 
+ https://www.canva.com/design/DAG3Hp1JQXA/EMJ9JQ6n1YsoNq758y8Glg/edit?utm_content=DAG3Hp1JQXA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Reading #5
 <BR>
 ading Discussion 5 — The Design of Everyday Things (Ch.5: Human Error)
