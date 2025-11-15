@@ -65,7 +65,7 @@ This idea connects to the Cambodian bamboo house example.
 
 Reading #5
 <BR>
-ading Discussion 5 — The Design of Everyday Things (Ch.5: Human Error)
+Reading Discussion 5 - The Design of Everyday Things (Ch.5: Human Error)
 
 By Bulli Sot
 
