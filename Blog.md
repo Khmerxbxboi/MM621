@@ -16,10 +16,19 @@ This site was built using [GitHub Pages](https://www.jayaproduction.com).
 I am a **graduate student** at *California State University, East Bay* pursuing an **M.A. in Interaction Design & Interactive Art (2024–2027)**.  
 I am also the **founder of Sodaro**, an AI-driven financial and design platform that blends technology, ethics, and accessibility to empower underserved communities.  
 
+Final Project
+- https://openjustice.doj.ca.gov/exploration/crime-statistics/arrests 
+
+
+
 ## PROJECTS
 Project #1 (Due: Tue Sep 30, 2025 11:59pm)
 <BR>
 https://khmerxbxboi.github.io/MM621---Lab-3-Randomizer/
+
+Project #2 Data Visualization
+<BR>
+https://khmerxbxboi.github.io/MM621_Project-2-Data-Visualization/
 
 
 
