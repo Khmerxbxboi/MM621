@@ -240,12 +240,10 @@ The most basic level of processing. Sometimes referred to as “the lizard brain
 
 The most basic level of processing. Sometimes referred to as “the lizard brain.” This level system allows us to make quick judgments subconsciously, without conscious awareness or control. about the environment: good or bad, safe or dangerous.
 
----------
+- - - - - - - - - - -
 
 Nov 4 2025
 New month lets go make it happen alot of stuff today and learning new tricks of p5
-
-
 
 Nov 6 2025
 Reading and figure what to do ( mneed to read again on the book !
@@ -253,9 +251,11 @@ Reading and figure what to do ( mneed to read again on the book !
 Nov 11 2025
 Showing off the D3 idea ! very cool site to learn thank you
 
-
 Nov 13 2025
 I wasn't here today but turn in my proposal for project #3
 
 Nov 18 2025
+Talk about project #3 and essay !
+Chapter 5 = human error is real we talking about cyber stuff and password with design !
+
 
