@@ -81,181 +81,93 @@ Design, like Angkor Wat, is a reflection of life itself: patience, iteration, an
 
 
 ## BLOG
-Aug 19 2025
-Back to School ... new room but same good positive energy! Tyler showing off a good lesson about p5 and what we will be covering this semester. I remeber Tyler also told me its going to be a rerun with new stuff. I am glad to be here and refresh my brain of my skills in the Grad Program !.
-
-Aug 21 2025
-Second day og School, I notice we got to read but good part is youtube I see the style of p5 again ad being back memories of first time taken it eith Tyler in Fall of 2025. I am gettig to use to Javascript.
-
-Aug 26 2025
-We learned about interaction by examining something as simple as a sink. Why is the sink built this way? How can it be improved so that anyone can use it? The key lesson is to remember that you are designing for all people, not just yourself. I realized the importance of building for **everyone universally**.
-
-- - - - -
-
-Sept 2 2025
-Exercise and getting back into p5.js !
-
-Sept 4 2025
-Working on the text from every part of p5.js !!!
-At the moment, working on the spaceship exercise ... website is on point and p5.js
-
-Sept 11 2025
-This is my first exercise lab #1 for Tyler Class
-<BR>
-https://khmerxbxboi.github.io/MM621_In-Class-Exercise-Character-Scene-Randomizer/
-
-Sept 16 2025
-Refreshing more of p5.js and figure how to understand more ...
-
-Sept 18 2025
-We have to learn as much for our medterm coming up! read as much also !
-
-Sept 23 2025
-Midterm today score 8/10 ! yes life is good sometime study hard you know.=
-
-Sept 25 2025
-Classmate presentation, very inspiration to all each individual classmate.
-
-Sept 30 2025
-Today was my presentation for project #1 ! score 14/15 with p5.js !!!
-
-- - - - -
-
-Oct  02 2025
-work on more p5.js and understand more without the help of AI.
-
-Oct  07 2025
-Today is my birthday and I did not show up today for class.
-
-Oct  09 2025
-We learn what we learn more understand of p5.js shoutcut !
-
-let bubbles = []; 
-https://editor.p5js.org/Khmerxbxboi/sketches/cnCNS-PH0
-
-Oct  14 2025
-D3.js = amazing what is this ?
-API learning
-we working on understanding our new Project #2
-Learning about how to json that stuff understand 100k grand ???
-
-Oct 16 2025
-Today we learn about Weather API !
-
-Oct 21 2025
-I have to work on my stuff and turn it by 11:59pm after my personal meeting. 
-Today classmate  are shawing powerslide of the reading. 
-https://editor.p5js.org/Khmerxbxboi/sketches/JsjzvIh35
-
-Oct 23 2025
-Pick a data with partner Kim "Happiness", talk more about the class-work + extra credit.
-https://editor.p5js.org/Khmerxbxboi/sketches/6-DfTPERX
-
-Oct 28 2025
-Your Answers:
-Results for question 1.
-1
-0 / 2 points
-Which of the following is NOT one of the 3 main components to set up a For Loop?
-Incorrect answer:
-
-Create an Exit Condition / Boolean Expression
-Correct Answer:
-Create a Constructor()
-
-Create a Constructor()
-, Not Selected
-
-Incrementation Operator
-, Not Selected
-
-Establish a Variable
-, Not Selected
-Results for question 2.
-2
-0 / 2 points
-Which element is the ‘dog’, in the following array?
-
-
-words = ["cat", "rat", "snake", "dog", "turtle", "bird"];
-
-Index 3
-, Not Selected
-
-Index 0
-, Not Selected
-
-Index 5
-, Not Selected
-Incorrect answer:
-
-Index 4
-Correct Answer:
-Index 3
-Results for question 3.
-3
-2 / 2 points
-Which strategy would be effective to counteract personal learned helplessness? 
-
-Giving up at the first error message. 
-, Not Selected
-
-Blaming oneself after a initially failing a task.  
-, Not Selected
-Correct answer:
-
-Challenge negative thought with positive thinking, When something doesn’t work, it can be considered an interesting challenge, or perhaps just a positive learning experience.
-Results for question 4.
-4
-0 / 2 points
-What are the "four kind of constraints" Don Norman references in the first half of Chapter 4?
-
-Physical, Cultural, Semantic, and Logical
-, Not Selected
-Incorrect answer:
-
-Mapping. Signifiers, Feedback, and Affordances 
-Correct Answer:
-Physical, Cultural, Semantic, and Logical
-
-Natural. Psychological, Theoretical, and Philosophical 
-, Not Selected
-
-Ethical, Practical, Emotional, and Historical
-, Not Selected
-Results for question 5.
-5
-0 / 2 points
-Considering Emotional Design by Don Norman, he suggests a useful approximate model of human cognition and emotion is to consider three levels of processing: visceral, behavioral, and reflective. 
-
-Which definition below describes "the visceral level" the best. 
-
-This level is conscious cognitive, deep, and slow. It often occurs after the events have happened. As a consequence, this is where deep understanding develops, where reasoning and conscious decision making take place. 
-, Not Selected
-Incorrect answer:
-
-This level is the home of learned skills, triggered by situations that match the appropriate patterns. Even though we are usually aware of our actions, we are often unaware of the details. All we have to do is think of the goal and the this level handles all the details subconosciously: the conscious mind has little or no awareness beyond creating the desire to act.
-Correct Answer:
-The most basic level of processing. Sometimes referred to as “the lizard brain.” This level system allows us to make quick judgments subconsciously, without conscious awareness or control. about the environment: good or bad, safe or dangerous.
-
-The most basic level of processing. Sometimes referred to as “the lizard brain.” This level system allows us to make quick judgments subconsciously, without conscious awareness or control. about the environment: good or bad, safe or dangerous.
-
-- - - - - - - - - - -
-
-Nov 4 2025
-New month lets go make it happen alot of stuff today and learning new tricks of p5
-
-Nov 6 2025
-Reading and figure what to do ( mneed to read again on the book !
-
-Nov 11 2025
-Showing off the D3 idea ! very cool site to learn thank you
-
-Nov 13 2025
-I wasn't here today but turn in my proposal for project #3
 
 Nov 18 2025
-Talk about project #3 and essay !
-Chapter 5 = human error is real we talking about cyber stuff and password with design !
+Talk about project #3 and essay!
+Chapter 5 = human error is real — cyber stuff and password design!
 
+Nov 13 2025
+Wasn’t here today but turned in proposal for project #3.
 
+Nov 11 2025
+Showing off the D3 idea — very cool site to learn!
+
+Nov 6 2025
+Reading and figuring out what to do (need to read again).
+
+Nov 4 2025
+New month — learning new tricks in p5.
+
+- - - - - -
+
+Oct 28 2025 – Quiz Results
+Quiz fail 2/10
+
+Oct 23 2025
+Picked a data set with Kim (“Happiness”).
+Classwork + extra credit.
+https://editor.p5js.org/Khmerxbxboi/sketches/6-DfTPERX
+
+Oct 21 2025
+Had to turn in my work after my meeting.
+Classmates shared reading slides.
+https://editor.p5js.org/Khmerxbxboi/sketches/JsjzvIh35
+
+Oct 16 2025
+Learned about Weather API!
+Oct 14 2025
+D3.js = amazing.
+API learning for Project #2.
+Learning how to understand JSON (100k dataset).
+
+Oct 09 2025
+More p5.js shortcuts.
+https://editor.p5js.org/Khmerxbxboi/sketches/cnCNS-PH0
+
+Oct 07 2025
+My birthday — didn’t show up for class.
+
+Oct 02 2025
+Working on p5.js without AI.
+
+- - - - - 
+
+Sept 30 2025
+Presentation for Project #1 — score: 14/15!
+
+Sept 25 2025
+Classmate presentations — very inspiring.
+
+Sept 23 2025
+Midterm — scored 8/10!
+
+Sept 18 2025
+Learning as much as possible for the midterm.
+
+Sept 16 2025
+Refreshing p5.js.
+
+Sept 11 2025
+Exercise Lab #1
+https://khmerxbxboi.github.io/MM621_In-Class-Exercise-Character-Scene-Randomizer/
+
+Sept 4 2025
+Working on text in p5.js — spaceship exercise.
+
+Sept 2 2025
+Exercises and back into p5.js.
+
+- - - - -
+
+Aug 26 2025
+Learned about interaction using a sink example — design for everyone universally.
+
+Aug 21 2025
+Second day of school — p5.js basics, readings, YouTube.
+Feels like the first time taking this class.
+
+Aug 19 2025
+Back to school!
+New room, same energy.
+Tyler talked about p5 and the semester.
+Refreshing skills in the grad program.
