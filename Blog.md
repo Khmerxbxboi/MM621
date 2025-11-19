@@ -21,6 +21,8 @@ Project #1 (Due: Tue Sep 30, 2025 11:59pm)
 <BR>
 https://khmerxbxboi.github.io/MM621---Lab-3-Randomizer/
 
+
+
 ## Reading Discussions 
 
 
@@ -238,5 +240,22 @@ The most basic level of processing. Sometimes referred to as “the lizard brain
 
 The most basic level of processing. Sometimes referred to as “the lizard brain.” This level system allows us to make quick judgments subconsciously, without conscious awareness or control. about the environment: good or bad, safe or dangerous.
 
+---------
 
+Nov 4 2025
+New month lets go make it happen alot of stuff today and learning new tricks of p5
+
+
+
+Nov 6 2025
+Reading and figure what to do ( mneed to read again on the book !
+
+Nov 11 2025
+Showing off the D3 idea ! very cool site to learn thank you
+
+
+Nov 13 2025
+I wasn't here today but turn in my proposal for project #3
+
+Nov 18 2025
 
