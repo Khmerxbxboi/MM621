@@ -16,9 +16,15 @@ This site was built using [GitHub Pages](https://www.jayaproduction.com).
 I am a **graduate student** at *California State University, East Bay* pursuing an **M.A. in Interaction Design & Interactive Art (2024–2027)**.  
 I am also the **founder of Sodaro**, an AI-driven financial and design platform that blends technology, ethics, and accessibility to empower underserved communities.  
 
-Final Project
+Final Project (notes and inspiration)
+
+Data
 - https://openjustice.doj.ca.gov/exploration/crime-statistics/arrests 
 
+<BR>
+
+Design
+- https://uxplanet.org/dashboard-that-works-a-step-by-step-guide-for-startups-in-2025-1cec1bfe7f9c
 
 
 ## PROJECTS
